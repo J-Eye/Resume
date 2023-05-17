@@ -1,0 +1,15 @@
+body {
+    display: flex;
+}
+
+.profile-container{
+    background-color: blue;
+}
+
+.info-container{
+    background-color: gray;
+}
+
+.descrption-container{
+    
+}
